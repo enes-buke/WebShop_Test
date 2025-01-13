@@ -23,7 +23,7 @@ public class BaseDriver {
 
     }
     public static void WaitAndClose(){
-        Func.Wait(3);
+        Functions.Wait(3);
         driver.quit();
     }
 }

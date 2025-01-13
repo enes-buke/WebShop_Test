@@ -1,6 +1,6 @@
 package Utilities;
 
-public class Func {
+public class Functions {
 
     public static void Wait(int sec){
         try {
